@@ -1,8 +1,13 @@
 # UE-2DPlatformerTemplate
-
+Learn how you can make 2D platformer in Unreal Engine 5. 
+This tutorials will take you from nothing and teach you how to set up movement, jump, double jump and crouching, in short: 
+Everything you need for your Unreal Engine 2D Platformer in 2023
+Tutorial link:
+https://youtu.be/BwKdT98moaM
 
 Enjoy!
 
+![1](https://github.com/KampaiRaptor/UE-2DPlatformerTemplate/assets/120315901/1ad6dce6-fcc4-481e-b15e-b9f7c42c9b1b)
 
 
 ## License
